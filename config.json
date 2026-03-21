@@ -44,7 +44,7 @@
     ],
     "hero": {
         "title": "Quality Rubber Products, Made with Care",
-        "subtitle": "Family-owned polymer business serving local industries since 2004",
+        "subtitle": "Family-owned polymer business serving local industries since 2012",
         "description": "We specialize in custom rubber extrusion and molding. Small business, personal service, quality results.",
         "ctaText": "Let's Talk About Your Needs",
         "ctaLink": "#contact",
@@ -58,7 +58,7 @@
     "about": {
         "title": "About Echo Polymer",
         "tagline": "Small Business, Big on Quality",
-        "description": "We're a small, family-owned polymer business based in Gujarat, India. Started in 2004 by experienced rubber technologists, we specialize in custom rubber extrusion and molding for local and regional industries.\n\nWhat makes us different? Personal service. When you call us, you talk to people who actually make your products. We're small enough to be flexible and quick, but experienced enough to handle complex requirements. Over 20 years, we've built lasting relationships with our clients by focusing on quality and reliability."
+        "description": "We're a small, family-owned polymer business based in Gujarat, India. Started in 2012 by experienced rubber technologists, we specialize in custom rubber extrusion and molding for local and regional industries.\n\nWhat makes us different? Personal service. When you call us, you talk to people who actually make your products. We're small enough to be flexible and quick, but experienced enough to handle complex requirements. Over 13 years, we've built lasting relationships with our clients by focusing on quality and reliability."
     },
     "products": {
         "sectionTitle": "World-Class Range of",
@@ -180,7 +180,7 @@
             {
                 "icon": "✓",
                 "title": "Quality First",
-                "description": "20+ years of experience in rubber technology. We may be small, but we don't compromise on quality. Every product is made with care."
+                "description": "13+ years of experience in rubber technology. We may be small, but we don't compromise on quality. Every product is made with care."
             }
         ]
     },
@@ -205,7 +205,7 @@
             },
             {
                 "icon": "📅",
-                "value": "20+",
+                "value": "13+",
                 "label": "Years in Business"
             }
         ]
